@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JRizzleTheRoyalCloutBearer
+- 👋 Hi, I’m Jarrett.
 - 👀 I’m interested in ... writing code like art.
 - 🌱 I’m currently learning ... how to find work.
 - 💞️ I’m looking to collaborate on ... team projects of any sort.
