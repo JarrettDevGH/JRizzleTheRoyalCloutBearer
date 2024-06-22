@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JRizzleTheRoyalCloutBearer
-- 👀 I’m interested in ... getting money.
-- 🌱 I’m currently learning ... how to get money.
-- 💞️ I’m looking to collaborate on ... getting money.
-- 📫 How to reach me ... with money.
+- 👀 I’m interested in ... writing code like art.
+- 🌱 I’m currently learning ... how to find work.
+- 💞️ I’m looking to collaborate on ... team projects of any sort.
+- 📫 How to reach me ... direct messaging.
 
 <!---
 JRizzleTheRoyalCloutBearer/JRizzleTheRoyalCloutBearer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
